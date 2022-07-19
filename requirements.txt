@@ -1,0 +1,4 @@
+livingpark_utils
+datalad
+pandas
+matplotlib
